@@ -32,13 +32,6 @@ I love crafting seamless user experiences, building efficient RESTful APIs, and 
 - 🧪 Postman / Thunder Client
 - 🧱 Prisma / Firebase / Cloudinary
 
----
-
-## 📈 GitHub Stats
-
-![Asad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight)
 
 ---
 
