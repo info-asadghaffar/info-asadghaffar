@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Asad
+# 👋 Hi, I'm Asad Ghaffar
 
 🚀 Full-Stack Web Developer | React ⚛️ | Next.js ⚡ | MongoDB 🟢 | Express 🌐 | Node.js 🟩
 
