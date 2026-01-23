@@ -265,7 +265,7 @@ graph LR
 
 ---
 
-<img src="https://komarev.com/ghpvc/?username=info-asadghaffar&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=https://github.com/info-asadghaffar&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 
 **"Building intelligent systems that work while you sleep 🤖✨"**
 
