@@ -8,7 +8,6 @@
 <!-- Animated Wave -->
 <!-- <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="wave" width="100%"> -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,6,20&height=150&section=footer&width=100%" alt="wave" width="100%">
-<img src="https://raw.githubusercontent.com/info-asadghaffar/info-asadghaffar/output/github-contribution-grid-snake.svg" alt="snake" />
 
 </div>
 
