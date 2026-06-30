@@ -6,7 +6,8 @@
 <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B+I'm+Asad+Ghaffar;Full-Stack+Developer+%7C+AI+Automation+Engineer;Building+Intelligent+Web+Solutions+%F0%9F%A4%96;MERN+Stack+%7C+Next.js+%7C+AI+Integration" alt="Typing SVG" />
 
 <!-- Animated Wave -->
-<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="wave" width="100%">
+<!-- <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="wave" width="100%"> -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,6,20&height=150&section=footer&width=100%" alt="wave" width="100%">
 
 </div>
 
